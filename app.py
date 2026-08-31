@@ -22,7 +22,7 @@ from scoring import calculate_lead_score, lead_temperature
 
 
 st.set_page_config(
-    page_title="Nimble GTM | Revenue Operations",
+    page_title="B2B | Revenue Operations",
     page_icon="N",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -137,7 +137,7 @@ init_db()
 
 with st.sidebar:
     st.markdown(
-        "<div class='brand'><span class='brand-mark'>N</span><span class='brand-name'>Nimble GTM</span>"
+        "<div class='brand'><span class='brand-mark'>N</span><span class='brand-name'>B2B GTM</span>"
         "<div class='brand-sub'>LEAD & REVENUE OPERATIONS</div></div>",
         unsafe_allow_html=True,
     )

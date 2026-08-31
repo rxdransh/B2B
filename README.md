@@ -8,7 +8,7 @@ Early-stage sales teams often keep leads in disconnected spreadsheets. That make
 
 ## Solution
 
-Nimble GTM brings lead capture, rule-based qualification, funnel tracking, follow-up prioritisation, pipeline visibility, and revenue analytics into one small internal tool. It is deliberately simple enough to explain in an interview while still modelling realistic CRM and RevOps workflows.
+This B2B brings lead capture, rule-based qualification, funnel tracking, follow-up prioritisation, pipeline visibility, and revenue analytics into one small internal tool. It is deliberately simple enough to explain in an interview while still modelling realistic CRM and RevOps workflows.
 
 ## Key features
 
@@ -128,7 +128,7 @@ To reset the demo database, stop Streamlit, delete `crm.db`, and start the app a
 ## Project structure
 
 ```text
-nimble/
+B2B/
 ├── .streamlit/      # Stable light theme and local server defaults
 ├── app.py           # Streamlit UI and page workflows
 ├── analytics.py     # KPI, funnel, follow-up, and performance calculations
