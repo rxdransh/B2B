@@ -2,14 +2,6 @@
 
 A polished, local B2B CRM and revenue operations dashboard built with Python, Streamlit, Pandas, SQLite, and Plotly.
 
-## Problem statement
-
-Early-stage sales teams often keep leads in disconnected spreadsheets. That makes it difficult to judge lead quality, understand where prospects sit in the funnel, follow up on time, and estimate the revenue that may close.
-
-## Solution
-
-This B2B brings lead capture, rule-based qualification, funnel tracking, follow-up prioritisation, pipeline visibility, and revenue analytics into one small internal tool. It is deliberately simple enough to explain in an interview while still modelling realistic CRM and RevOps workflows.
-
 ## Key features
 
 - Live dashboard with six database-driven KPIs
